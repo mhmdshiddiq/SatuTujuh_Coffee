@@ -92,7 +92,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url(img/mike-kenneally-tNALoIZhqVM-unsplash.jpg);
+  background-image: url(../img/mike-kenneally-tNALoIZhqVM-unsplash.jpg);
   background-size: cover;
   background-position: center;
   position: relative;
